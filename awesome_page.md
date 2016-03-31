@@ -9,3 +9,5 @@
 var x = "some code"
 ```
 ![This is our screenshot](screenshot.png)
+
+H1 Thanks for visiting
