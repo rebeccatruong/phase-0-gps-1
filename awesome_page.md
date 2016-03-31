@@ -1,7 +1,7 @@
 ##Our header
 
-**This is bold!
-*This is emphasized!
+**This is bold!**
+*This is emphasized!*
 
 [This is a link](https://www.google.com)
 
